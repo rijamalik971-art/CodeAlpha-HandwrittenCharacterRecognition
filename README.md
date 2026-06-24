@@ -10,9 +10,9 @@
 This project implements a **Handwritten Digit Recognition** system using **Convolutional Neural Networks (CNN)** trained on the **MNIST dataset**. The model recognizes handwritten digits (0–9) with **99.53% accuracy**. A live **Gradio-based drawing UI** lets users draw digits and get real-time predictions.
 
 ##  Model Architecture
-- Conv2D + BatchNormalization + MaxPooling (x2)
-- Dropout layers to prevent overfitting
-- Dense layers with Softmax output
+ Conv2D + BatchNormalization + MaxPooling (x2)
+ Dropout layers to prevent overfitting
+ Dense layers with Softmax output
 
 ##  Results
 | Metric | Value |
@@ -43,8 +43,6 @@ Draw any digit (0-9) on the canvas and AI will predict it instantly with confide
 
 ##  Author
 **Rija Malik**
-- GitHub: [@rijamalik971-art](https://github.com/rijamalik971-art)
+ GitHub: [@rijamalik971-art](https://github.com/rijamalik971-art)
 
-##  Internship
-Completed as part of **CodeAlpha Machine Learning Internship**
--  [www.codealpha.tech](https://www.codealpha.tech)
+
